@@ -49,7 +49,7 @@
                         "Provides [1] [Biomass]",
                         "Provides [1] [Oxygen]",
                         "Consumes [1] [Atmosphere]",
-                        "Consumes [1] [Water]",
+                        "Consumes [1] [water]",
 			"Can also be built on tiles adjacent to fresh water",
 			"Cannot be built on [Water] tiles",
 			"[+1 Food] from [Fresh water] tiles <after discovering [Xeno-Grafting]>",
@@ -85,7 +85,7 @@
 		"techRequired": "Genetics",
 		"uniques": [
                         "Provides [1] [Oxygen]",
-                        "Consumes [1] [Water]",
+                        "Consumes [1] [water]",
                         "Provides [1] [Atmosphere]",
 			"Can also be built on tiles adjacent to fresh water",
 			"Cannot be built on [Water] tiles",
@@ -143,7 +143,7 @@
 		"techRequired": "Xenogeology",
 		"uniques": [
                         "Provides [1] [Atmosphere]",
-                        "Provides [1] [Water]",
+                        "Provides [1] [water]",
                         "Provides [1] [Temperature]",
 			"Cannot be built on [Water] tiles",
 			"[+1 Production] <after discovering [Efficient Extraction Methods]>",
@@ -228,7 +228,7 @@
 		"uniques": [
                         "Provides [1] [Temperature]",
                         "Provides [1] [Atmosphere]",
-                        "Consumes [1] [Water]",
+                        "Consumes [1] [water]",
                         "Consumes [1] [Biomass]",
                         "Consumes [1] [Oxygen]",
 			"Urban Improvement",
@@ -271,7 +271,7 @@
 		"uniques": [
                         "Consumes [1] [Temperature]",
                         "Consumes [1] [Atmosphere]",
-                        "Provides [1] [Water]",
+                        "Provides [1] [water]",
                         "Provides [1] [Biomass]",
                         "Provides [1] [Oxygen]",
 			"Only available <after adopting [Xeno-Cooperation]>",
@@ -387,7 +387,7 @@
 		"uniques": [
                         "Provides [2] [Temperature]",
                         "Provides [1] [Atmosphere]",
-                        "Provides [1] [Water]",
+                        "Provides [1] [water]",
 			"[+1 Production] <after discovering [Efficient Extraction Methods]>",
 			"Can only be built to improve a resource",
 			"Pillaging this improvement yields approximately [+2 Science, +2 Gold, +2 Production]"
@@ -436,7 +436,7 @@
 		"uniques": [
                         "Provides [2] [Temperature]",
                         "Provides [3] [Atmosphere]",
-                        "Provides [1] [Water]",
+                        "Provides [1] [water]",
 			"Cannot be built on [Coast] tiles <before discovering [Stable Fission Power]>",
 			"Cannot be built on [Ocean] tiles <before discovering [Stable Fission Power]>",
 			"Can only be built to improve a resource",
@@ -1169,8 +1169,8 @@
 		"techRequired": "Terraforming",
                 "uniques": ["Consumes [1] [Temperature] <when number of [Temperature] is greater than [Temperature Best Status]>",
 		"Provides [1] [Temperature] <when number of [Temperature] is less than [Temperature Best Status]>",
-		"Consumes [1] [Water] <when number of [Water] is greater than [Water Best Status]>",
-		"Provides [1] [Water] <when number of [Water] is less than [Water Best Status]>"],
+		"Consumes [1] [water] <when number of [water] is greater than [Water Best Status]>",
+		"Provides [1] [water] <when number of [water] is less than [Water Best Status]>"],
 		"civilopediaText": [
 			{
 				"extraImage": "TileSets/FantasyHex/Tiles/Tidal Wave Laboratory",
@@ -1186,7 +1186,7 @@
 		"techRequired": "Terraforming",
                 "uniques": ["Consumes [50] [Atmosphere]",
 			"Provides [10] [Temperature]",
-                "Provides [10] [Water]"],
+                "Provides [10] [water]"],
 		"civilopediaText": [
 			{
 				"extraImage": "TileSets/FantasyHex/Tiles/Atmospheric LNG Factory",
@@ -1226,12 +1226,12 @@
 		"terrainsCanBeBuiltOn": ["Land"],
                 "turnsToBuild": 5,
 		"techRequired": "Terraforming",
-                "uniques": ["Provides [33] [Water] <when number of [Water] is less than [Water Best Status]>",
-                "Consumes [20] [Atmosphere] <when number of [Water] is less than [Water Best Status]>",
-                "Provides [10] [Temperature] <when number of [Water] is less than [Water Best Status]>",
-		"Consumes [33] [Water] <when number of [Water] is greater than [Water Best Status]>",
-                "Provides [20] [Atmosphere] <when number of [Water] is greater than [Water Best Status]>",
-                "Consumes [10] [Temperature] <when number of [Water] is greater than [Water Best Status]>"]
+                "uniques": ["Provides [33] [water] <when number of [water] is less than [Water Best Status]>",
+                "Consumes [20] [Atmosphere] <when number of [water] is less than [Water Best Status]>",
+                "Provides [10] [Temperature] <when number of [water] is less than [water Best Status]>",
+		"Consumes [33] [water] <when number of [water] is greater than [Water Best Status]>",
+                "Provides [20] [Atmosphere] <when number of [water] is greater than [Water Best Status]>",
+                "Consumes [10] [Temperature] <when number of [water] is greater than [Water Best Status]>"]
 	},
 	{
 		"name": "Oxygen Burner",
@@ -1259,7 +1259,7 @@
 		"terrainsCanBeBuiltOn": ["Land"],
                 "turnsToBuild": 20,
 		"techRequired": "Terraforming",
-                "uniques": ["Provides [100] [Water]",
+                "uniques": ["Provides [100] [water]",
                 "Provides [33] [Atmosphere]",
                 "Provides [33] [Temperature]",
 		"Consumes [33] [Biomass]"]
@@ -1282,6 +1282,6 @@
                 "uniques": ["Provides [24] [Biomass]",
 			"Provides [10] [Oxygen]",
 		"Consumes [10] [Atmosphere]",
-		"Consumes [30] [Water]"]
+		"Consumes [30] [water]"]
 	}
 ]
