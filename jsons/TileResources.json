@@ -11,7 +11,7 @@
 		"uniques": ["Cannot be traded <before discovering [Terraforming]>","Stockpiled"],
 	},
 	{
-		"name": "Water",
+		"name": "water",
 		"resourceType": "Strategic",
 		"uniques": ["Cannot be traded <before discovering [Terraforming]>","Stockpiled"],
 	},
