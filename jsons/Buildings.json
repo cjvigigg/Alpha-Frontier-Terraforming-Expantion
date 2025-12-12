@@ -5,9 +5,9 @@
 		"cost": 1,
 		"uniques": ["Unbuildable","Unsellable",
 	"Consumes [1] [Temperature] <when number of [Atmosphere] is less than [Atmosphere Best Status]>",
-	"Consumes [1] [Biomass] <for every [150] [Biomass]> <when number of [Water] is less than [1000]>",
+	"Consumes [1] [Biomass] <for every [150] [Biomass]> <when number of [water] is less than [1000]>",
 	"Provides [1] [Temperature] <for every [2] [Mining Tunnels]>",
-	"Provides [1] [Water] <for every [Mining Tunnels]>",
+	"Provides [1] [water] <for every [Mining Tunnels]>",
 	"Provides [1] [Atmosphere] <for every [2] [Mining Tunnels]>",
 	"Consumes [1] [Atmosphere] <for every [2] [Aquatic Farm]>",
 	"Provides [1] [Oxygen] <for every [Aquatic Farm]>",
@@ -15,7 +15,7 @@
 	"Consumes [1] [Atmosphere] <for every [2] [Aquatic Farm]>",
 	"Provides [1] [Oxygen] <for every [Aquatic Farm]>",
 	"Provides [1] [Biomass] <for every [Aquatic Farm]>",
-	"Consumes [1] [Water] <for every [2] [Greenhouse]>",
+	"Consumes [1] [water] <for every [2] [Greenhouse]>",
 	"Consumes [1] [Atmosphere] <for every [2] [Greenhouse]>",
 	"Provides [1] [Oxygen] <for every [Greenhouse]>",
 	"Provides [1] [Biomass] <for every [2] [Greenhouse]>"]
@@ -60,7 +60,7 @@
 		"requiredTech": "Terraforming",
 		"uniques": [
 			"Provides [5] [Atmosphere]",
-			"Provides [5] [Water]",
+			"Provides [5] [water]",
 			"Consumes [5] [Biomass]",
 			"[+1 Production] from [Mine] tiles [in this city]",
 			"Limited to [3] per Civilization",
@@ -97,7 +97,7 @@
 		//"isNationalWonder": true,
 		"requiredTech": "Terraforming",
 		"uniques": [
-			"Provides [1] [Biomass] <for every [100] [Water]> <when number of [Water] is greater than [1000]>",
+			"Provides [1] [Biomass] <for every [100] [water]> <when number of [water] is greater than [1000]>",
 			"Must be next to [Coast]",
 			"[+1 Food] from [Water resource] tiles [in this city]",
 			"Limited to [3] per Civilization",
@@ -116,7 +116,7 @@
 		"requiredTech": "Terraforming",
 		"uniques": [
 			"Only available <when number of [Oxygen] is between [1800] and [3200]>",
-			"Only available <when number of [Water] is between [3600] and [4000]>",
+			"Only available <when number of [water] is between [3600] and [4000]>",
 			"Only available <when number of [Temperature] is between [2780] and [3230]>",
 			"Only available <when number of [Atmosphere] is between [780] and [1213]>",
 			"Only available <when number of [Biomass] is greater than [550000]>",
