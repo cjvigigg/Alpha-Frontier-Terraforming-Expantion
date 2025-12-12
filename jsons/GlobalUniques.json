@@ -8,7 +8,7 @@
 		"Gain a free [Environment] [in capital]",
 		"Triggers a [Terraforming Tips] event <upon discovering [Terraforming] technology>",
 		"Provides [2870] [Temperature Best Status]", /*+0.1℃ per Temperature,*/
-		"Provides [3800] [water Best Status]", /*+1m per water,*/
+		"Provides [3800] [Water Best Status]", /*+1m per water,*/
 		"Provides [1013] [Atmosphere Best Status]", /*+1 hPa per Atmosphere,*/
 		"Provides [2100] [Oxygen Best Status]", /*+100ppm per Oxygen,*/
 		"Provides [1] [Temperature] <when number of [Atmosphere] is greater than [Atmosphere Best Status]>",
